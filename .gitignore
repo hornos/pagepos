@@ -1,0 +1,7 @@
+.DS*
+.#*
+*.old
+*.old*
+*.new
+*.sqlite
+*.pyc
